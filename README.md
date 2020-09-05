@@ -1,11 +1,3 @@
-# EECE-5554-FinalProject
-
-Contributors:
-
-Veera Ragav for feature detection adn matching with outlier rejection,  
-Askash for Essential matrix and camera pose  
-Arvind for triangulation  
-Haojie Huang for solvePnP and bundle adjustment  
 
 Usages:  
 
